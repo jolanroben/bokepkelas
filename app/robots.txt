@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://bokepkelas.pages.dev/sitemap.xml
